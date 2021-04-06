@@ -1,1 +1,5 @@
+
 segundo cambio ahora desde rama "master"
+
+Primer cambio en fichero de texto desde branch1
+
